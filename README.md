@@ -1,14 +1,15 @@
-# test_pytrax_lsst
+# test_pytrax
 Performance test of LSST Solar System Processing software (Pytrax)
 
-Dependencies: 
+## Dependencies: 
 * pytrax 
 * a database of simulated LSST observations (pytrax_LSST.db) currently at NCSA LFS under /project/eggl/pytrax
 data/
 
-
-
-# Sample Output
+# Sample Output 
+## Parameters: 
+clustering radius: 0.004
+time transform: 5
 
 ## Data Universe:
 
